@@ -1,0 +1,6 @@
+[submodule "ProMicroKiCad"]
+	path = ProMicroKiCad
+	url = https://github.com/7-rate/ProMicroKiCad.git
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/7-rate/kbd.git
