@@ -1,0 +1,9 @@
+[submodule "kicad_lib/ProMicroKiCad"]
+	path = kicad_lib/ProMicroKiCad
+	url = https://github.com/7-rate/ProMicroKiCad.git
+[submodule "kicad_lib/kbd"]
+	path = kicad_lib/kbd
+	url = https://github.com/7-rate/kbd.git
+[submodule "kicad_lib/CrumpPrints"]
+	path = kicad_lib/CrumpPrints
+	url = https://github.com/tylercrumpton/CrumpPrints.pretty.git
