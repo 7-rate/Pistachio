@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ProMicro)(type Legacy)(uri ${KIPRJMOD}/kicad_lib/ProMicroKiCad/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name keyboard)(type Legacy)(uri C:/workspace/keyboard/Pistachio/kicad_lib/kbd/library/kbd.lib)(options "")(descr ""))
+)
