@@ -1,4 +1,4 @@
-4179754792917748
+4182945494393149
 Connector_Audio
 Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
@@ -18010,6 +18010,20 @@ Yellow 5381 Series LED
 0
 2
 2
+Pistachio
+Pistachio
+
+
+0
+0
+0
+Pistachio
+Pistachio_logo
+
+
+0
+0
+0
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
