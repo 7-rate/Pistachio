@@ -1,3 +1,0 @@
-[submodule "kicad_lib/kbd"]
-	path = kicad_lib/kbd
-	url = https://github.com/7-rate/kbd.git

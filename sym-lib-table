@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name keyboard)(type Legacy)(uri C:/workspace/keyboard/Pistachio/kicad_lib/kbd/library/kbd.lib)(options "")(descr ""))
-)
